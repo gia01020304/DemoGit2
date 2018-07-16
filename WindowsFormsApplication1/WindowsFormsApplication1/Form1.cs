@@ -16,11 +16,8 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
             MessageBox.Show("CN1");
-
             MessageBox.Show("CN1_1");
-
               MessageBox.Show("chang_remote");
-
               MessageBox.Show("fetch");
                MessageBox.Show("pull_2");
         }
