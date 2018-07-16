@@ -19,7 +19,11 @@ namespace WindowsFormsApplication1
             MessageBox.Show("CN1_1");
               MessageBox.Show("chang_remote");
               MessageBox.Show("fetch");
+<<<<<<< HEAD
             MessageBox.Show("pull_4");
+=======
+                MessageBox.Show("pull_3");
+>>>>>>> 534bd006312ec8bd0d77c347278dc741067e42ea
             MessageBox.Show("pull_2");
                MessageBox.Show("pull_1");
         }
