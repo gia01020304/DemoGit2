@@ -15,7 +15,11 @@ namespace WindowsFormsApplication1
         public Form1()
         {
             InitializeComponent();
+
             MessageBox.Show("dsads");
+
+            MessageBox.Show("CN1");
+
         }
     }
 }
