@@ -26,7 +26,11 @@ namespace WindowsFormsApplication1
 
 
             MessageBox.Show("fetch1");
+<<<<<<< HEAD
             MessageBox.Show("dsad");
+=======
+             MessageBox.Show("fetch2");
+>>>>>>> remotes/origin/cn1
               MessageBox.Show("fetch45");
         }
     }
