@@ -22,6 +22,7 @@ namespace WindowsFormsApplication1
               MessageBox.Show("chang_remote");
 
               MessageBox.Show("fetch");
+               MessageBox.Show("pull_2");
         }
     }
 }
