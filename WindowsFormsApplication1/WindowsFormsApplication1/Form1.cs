@@ -16,7 +16,7 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
             MessageBox.Show("CN1");
-          
+
         }
     }
 }
